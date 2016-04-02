@@ -1,0 +1,74 @@
+main.C 主要工作是提供待解析文件，并调用ILibParseXML接口和ILibGetXMLAttributes接口，解析xml结构和相关属性，按照ILibXMLNode结构填充起来，并完成测试工作；
+
+重点在于ILibParseXML和ILibGetXMLAttributes这两个接口，
+其中，ILibParseXML完成文件结构的解析，返回ILibXMLNode结构树的根节点（各个结点之间是以空格‘ ’为分隔，空格后的第一个元素为结点的首元素）
+ILibGetXMLAttributes向这个树结构中的各个元素填充属性；
+
+ILibParseXML函数中首先使用ILibParseString（..., "<"）将文件解析成各个结点均以"<"标识符的后一个字符为起始字符的字符串链表结构field（第一个结点只有"<"一个元素）
+然后根据各个element的起始字符，分成四个类别分别使用ILibParseString处理：
+1、"?"，文件头部
+2、"!"，注释语句
+3、"/"，结束语句
+4、else，实际内容
+
+ILibParseString函数根据标识符匹配，将长度length的文件内容分割成各个链表元素，返回值为结构体parser_result：
+struct parser_result
+{
+    struct parser_result_field *FirstResult;
+    struct parser_result_field *LastResult;
+    int NumResults;
+};
+其中，FirstResult为链表头部元素，LastResult为动态指针，NumResults为节点数目；
+各个结点的结构为parser_result_field：
+struct parser_result_field
+{
+    char* data;
+    int   datalength;
+    struct parser_result_field *NextResult;
+};
+注：返回值头部结点的*data指向XML file的首地址
+
+XML文件的实际内容解析也是通过ILibParseString函数来完成，结点内部的解析隔断用的标识符为空格' '，隔出名称和属性
+这里用了一个空结点的概念：若结点的最后一个字符为'/'，该结点就是空结点
+根据XML格式定义，对于空元素，我们统一使用<XX></XX>来定义，如果有<XX/>这样的情况，则增加一个虚拟结点来处理，
+虚拟结点是其对应空节点的后邻结点，继承了对应空节点的内容，只是EmptyTag置0，用于实际parse
+关于其返回值类型：
+struct ILibXMLNode 
+{
+    char* Name;
+    int NameLength;
+    
+    int StartTag;
+    int EmptyTag;
+    
+    void *Reserved;
+    struct ILibXMLNode *Next;
+    struct ILibXMLNode *Parent;
+
+};
+Name:结点元素名称（与属性相对应）
+StartTag:起始元素标识符，非0表示当前元素为起始元素，对应的也就是终止元素，参见XML格式
+EmptyTag：空元素标识符，非0表示当前元素为空元素，没有属性相关
+Reserved：记录了当前结点数据的结束位置
+
+
+这样，得到完整的一个name list，每个name结点中有各自的属性，下面就需要针对每个name结点进行parse，也就是该结点的属性parse，具体工作在ILibGetXMLAttributes中完成；
+
+实际工作函数是ILibParseStringAdv，这个函数也是匹配标识符将之前解出的字符串结点分隔成更小的块，每个块包含属性名称和属性值，
+具体流程和ILibParseString相似，不过不同的是它会屏蔽掉引号之间的内容，不对它们做标识符匹配，（引号之间的内容是属性值）
+按照目标文件的规格，以‘=’为属性名和属性值分隔符
+最终得到的是ILibXMLAttribute结构：
+struct ILibXMLAttribute
+{
+    char* Name;
+    int NameLength;
+    
+    struct ILibXMLNode *Parent;
+
+    char* Value;
+    int ValueLength;
+    struct ILibXMLAttribute *Next;
+}
+Name&NameLength分别为属性名和长度；
+Value&ValueLength分别为属性值和长度；
+

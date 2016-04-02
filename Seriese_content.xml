@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<root>
+<language lang="English">
+    <series name="Arrow Season 4" total="1" type="Action" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Arrow_Season_4/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Arrow_season_4/Arrow_season_4.jpg"/>
+	<series name="The Flash Season 2" total="1" type="Action" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/the-flash-season-2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-flash-season-2/the-flash-season-2.jpg"/>
+    <series name="Gothman" total="22" type="Crime" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Gothman/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Gothman/Gotham.jpg"/>
+    <series name="Baller" total="10" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Baller/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Baller/Baller.jpg"/>    
+	<series name="The-Mysteries-of-Laura-Season1" total="22" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Mysteries-of-Laura-Season-1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/The-Mysteries-of-Laura-Season-1/The-Mysteries-of-Laura-Season-1.jpg"/>    
+	<series name="clipped Season 1" total="10" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/clipped-s1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/clipped-s1/clipped.jpg"/>	
+	<series name="Sleepy Hollow Season 1" total="12" type="Adventure" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Sleepy-Hollow-S1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Sleepy-Hollow-Season-1/sleepy-hollow-season-1.jpg"/>
+    <series name="Sleepy Hollow Season 2" total="18" type="Adventure" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Sleepy-Hollow-S2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Sleepy-Hollow-Season-2/sleepy-hollow-season-2.jpg"/>
+    <series name="The Walking Dead Season 5" total="16" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Walking-Dead-Season5/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-Walking-deade-s5/thewalkingdeadposter5.jpg"/>
+	<series name="The Walking Dead Season 4" total="16" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Walking-Dead-Season4/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-Walking-deade-s4/thewalkingdeadposter4.jpg"/>
+	<series name="The Walking Dead Season 3" total="16" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Walking-Dead-Season3/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-Walking-deade-s3/thewalkingdeadposter3.jpg"/>
+	<series name="The Walking Dead Season 2" total="13" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Walking-Dead-Season2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-Walking-deade-s2/thewalkingdeadposter2.jpg"/>
+	<series name="The Walking Dead Season 1" total="6" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/The-Walking-Dead-Season1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-Walking-deade-s1/thewalkingdeadposter1.jpg"/>	   
+    <series name="Season 2 marvel's agents of s.h.i.e.l.d" total="20" type="Action" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Marvels-Agents-of-S.H.I.E.L.D-The-Complete-Season-1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/marvel-agents-of-s.h.i.e.l.d-s2/agents_of_shield_season_2_poster.jpg"/>
+    <series name="Season 1 marvel's agents of s.h.i.e.l.d" total="22" type="Action" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/Marvels-Agents-of-S.H.I.E.L.D-The-Complete-Season-2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/marvel-agents-of-s.h.i.e.l.d-s1/agents_of_shield_season_1_poster.jpg"/>
+    <series name="I Zombie" total="13" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/English/iZombie/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/iZombie/izombie.jpg"/>
+	<series name="Salem Season 1" total="12" type="Horror" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Salem-Sesson-1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Salem-Sesson-1/Salem-Sesson-1.jpg"/>
+    <series name="Salem Season 2" total="13" type="Horror" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Salem-Sesson-2/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Salem-Sesson-2/Salem-Sesson-2.jpg"/>
+    <series name="The Flash Sesson1" total="23" type="Action" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/The-Flash-Sesson1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/The-Flash-Sesson1/The-Flash-Sesson1.jpg"/>
+    <series name="Girls Season4" total="10" type="Drama" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Girls-Season4/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Girls-Season4/Girls-Season4.jpg"/>
+    <series name="The 100 S1" total="13" type="Drama" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/The-100-S1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/The-100-S1/The-100-S1.jpg"/>
+    <series name="The 100 S2" total="16" type="Drama" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/The-100-S2/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/The-100-S2/The-100-S2.jpg"/>
+    <series name="Arrow Season 3" total="22" type="Action" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Arrow/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Arrow/Arrow.jpg"/>
+    <series name="24 Season 9" total="12" type="Action" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/24/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/24/24.jpg"/>
+    <series name="Z-Nation Season 1" total="13" type="Action" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Z-Nation-S1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Znation/Znation.jpg"/>
+    <series name="Constantine Season 1" total="13" type="Action" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Constantine-S1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Constantine/Constantine.jpg"/>
+    <series name="Penny Dreadful Season 1" total="8" type="Drama" link="http://198.50.198.85/ISTAR-Multimedia/Series/English/Penny-Dreadful-S1/1.mp4" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Penny-Dreadful-S1/Penny-Dreadful-S1.jpg"/>
+</language>
+<language lang="Arabic">
+<series name="Abn alHalal" total="30" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Abn-alHalal/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Abn-alHalal/Abn-alHalal.jpg"/>		
+
+<series name="Elbyout Asrar" total="30" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Elbyout-Asrar/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Elbyout-Asrar/Elbyout-Asrar.jpg"/>		
+<series name="Bant w haeb" total="30" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Bant-w-Shaeb/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Bant-w-Shaeb/Bant-w-Shaeb.jpg"/>		
+
+ 	<series name="Dubi Landon Dubi" total="30" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Dubi-Landon-Dubi/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Dubi-Landon-Dubi/Dubi-Landon-Dubi.jpg"/>		
+ 	<series name="Selfe" total="29" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/selfe/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/selfe/selfe.jpg"/>		
+    <series name="Zarak Warak 2" total="6" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Zarak-Warak-2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Zarak-Warak-2/Zarak-Warak-2.jpg"/>		
+    <series name="Ostath w Raaes qsm" total="30" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Ostath-w-Raaes-qsm/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Ostath-w-Raaes-qsm/Ostath-w-Raaes-qsm.jpg"/>		
+ 	<series name="the voice" total="5" type="Program" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/the-voice/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/the-voice/the-voice.jpg"/>		
+    <series name="Bab Alhara7" total="30" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Bab-Alhara-7/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Bab-Alhara-7/Bab-Alhara-7.jpg"/>		
+	<series name="Dunia 2015" total="30" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Dunia-2015/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Dunia-2015/Dunia-2015.jpg"/>		
+	<series name="Enaya Moshadda" total="32" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Enaya-Moshadda/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Enaya-Moshadda/Enaya-Moshadda.jpg"/>		
+	<series name="Serhat Rooh" total="30" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Serhat-Rooh/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Serhat-Rooh/Serhat-Rooh.jpg"/>
+	<series name="Wojouh Waraa AlWojouh" total="34" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Wojouh-Waraa-Al-Wojouh/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Wojouh-Waraa-Al-Wojouh/Wojouh-Waraa-Al-Wojouh.jpg"/>	
+	<series name="Ghorbal2" total="35" type="Drama" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Arabic/Ghorbal2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Ghorbal2/Ghorbal2.jpg"/>	
+</language>
+<language lang="Kurdish">
+    <series name="Bazmi Bazm" total="10" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Kurdish/Bazme-Bazm/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Bazme-Bazm/Bazme-Bazm.jpg"/>		
+    <series name="Hamko Show" total="4" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Kurdish/Hamko-Show/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Hamko-Show/Hamko-Show.jpg"/>		
+</language>
+<language lang="Persian">
+
+    <series name="Signal Mojod Ast" total="4" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Signal-Mojod-Ast/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Signal-Mojod-Ast/Signal-Mojod-Ast.jpg"/>
+    <series name="madreseh moshha" total="8" type="Animation" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/madreseh-moshha/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/madreseh-moshha/madreseh-moshha.jpg"/>
+
+
+    <series name="Atseh" total="1" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Atseh/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Atseh/Atseh.jpg"/>
+    <series name="Amin" total="17" type="Action" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Amin/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Amin/Amin.jpg"/>
+
+    <series name="Kolah Germezi 94" total="19" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Kolah-Germezi/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Kolah-Germezi/Kolah-Germezi.jpg"/>
+    <series name="Shoxe Kardam" total="24" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Shoxe-Kardam/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Shoxe-Kardam/Shoxe-Kardam.jpg"/>
+    <series name="Walking Dead S1" total="6" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Walking-Dead-S1/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Walking-Dead-S1/Walking-Dead.jpg"/>
+    <series name="Walking Dead S2" total="13" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Walking-Dead-S2/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Walking-Dead-S1/Walking-Dead.jpg"/>
+    <series name="Walking Dead S3" total="16" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Walking-Dead-S3/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Walking-Dead-S1/Walking-Dead.jpg"/>
+    <series name="Walking Dead S4" total="16" type="Horror" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Walking-Dead-S4/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Walking-Dead-S1/Walking-Dead.jpg"/>
+    <series name="Avalin Entekhab" total="36" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Avalin-Entekhab/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Avalin-Entekhab/Avalin-Entekhab.jpg"/>
+    <series name="Dar Hashey" total="26" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Dar-Hashey/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Dar-Hashie/Dar-Hashie.jpg"/>
+    <series name="Dehkadeh Heivanat" total="6" type="Cartoon" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Dehkadeh-Heivanat/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Dehkadeh-Heivanat/Dehkadeh-Heivanat.jpg"/>
+    <series name="Footbalistha" total="40" type="Cartoon" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Footbalistha/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Footbalistha/Footbalistha.jpg"/>
+    <series name="Hana Dokhtari Dar Mazrae" total="4" type="Cartoon" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Hana-Dokhtari-Dar-Mazrae/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Hana-Dokhtari-Dar-Mazrae/Hana-Dokhtari-Dar-Mazrae.jpg"/>
+    <series name="Khooneh Madar Bozorgeh" total="5" type="Cartoon" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Khooneh-Madar-Bozorgeh/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Khooneh-Madar-Bozorgeh/Khooneh-Madar-Bozorgeh.jpg"/>
+    <series name="Ramcal" total="6" type="Cartoon" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Ramcal/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Ramcal/Ramcal.jpg"/>
+    <series name="Mr-Bean" total="2" type="Comedy" link="http://istariptv2.dyndns-ip.com:2200/ISTAR-Series/Persian/Mr.Bean/1.mp4/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/Series-Poster/Mr.Bean/Mr.Bean.jpg"/>
+</language>
+</root>

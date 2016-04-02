@@ -1,0 +1,490 @@
+<?xml version="1.0"?>
+<root>
+<catagory type="Arabic">
+    <channel name="OSN-MBC+" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/1.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Yahala Shabab" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/3.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Yahala Drama" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/2.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Movies HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/4.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Yahala HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/6.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="OSN First HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/5.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>		
+    <channel name="OSN Seriese" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/22.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="MBC Pvariety" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/25.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies Premiere+2" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/16.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies+4 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/19.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies HD Kids" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/18.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Disney Channel" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/54.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies HD Action" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/17.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies Drama" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/7.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies Box Office1" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/28.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN First HD Comedy" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/31.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Discovery HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/9.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Comedy HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/8.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Cinema2" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/24.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Cinema1" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/23.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN AlYawm" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/20.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Action+2 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/10.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star-World" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/42.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star-Movies-Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/35.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-WWe" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/37.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Premier-Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/32.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-ON-Demand" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/39.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Movies-plus3" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/43.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Movies-Plus2" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/34.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Movies-HD-Comedy" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/44.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-First-More" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/38.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN-Festival-Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/36.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Platium Horror" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/47.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Platinum Moveis" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/46.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Platinum Action" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/45.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies +8" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/53.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies +7" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/52.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies +6" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/51.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OSN Movies +5" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/50.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="M Movies Box Office" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/48.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="M Movies" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/49.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nat-Geo-Wild-Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/33.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Hunting-ch" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/40.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Discovry-World" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/41.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ART-Hekayat2" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/56.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ART-Hekayat1" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/55.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ART-Cinema" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/59.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ART-Aflam2" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/58.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ART-Aflam1" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/57.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Food Network" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/21.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="EI HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/29.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AMC" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/13.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sundance Channel" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/12.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Boomerang" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/27.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Animux" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/26.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Animal Planet Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/14.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nat Geo Peopel HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/11.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Discovery Science Hd" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/30.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Discovery ID HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/15.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="AD Sport3 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/60.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AD Sport4 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/61.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AD Sport5 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/62.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AD Sport6 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/63.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports1 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/75.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports2 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/74.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports3 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/73.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports4 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/72.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports5 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/71.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports6 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/70.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports7 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/69.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports8 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/68.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports9 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/67.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bein Sports10 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/66.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Bein Sports11 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/65.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Bein Sports12 HD" link="http://kingiptv.dyndns.ws:8000/live/bestiptv/kingiptv/64.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC1" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/388.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/389.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC3" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/390.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC4" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/391.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Drama" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/395.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Masr" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/393.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Masr+2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/396.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Bollywood" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/397.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Action" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/394.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MBC Max" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/392.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="ZEE Aflam" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/451.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Abu Dhabi" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/418.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Alaan TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/386.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Wanasah" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/387.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Alhurra" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/385.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Iraqia News" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/384.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Mehwer" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/383.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Sada ElBalad" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/378.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Medi1" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/377.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="2M Maroc" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/376.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Alhayat2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/444.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="LBC SAT" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/425.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="MTV-Lebanon" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/435.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Cairo Drama" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/375.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Cairo Cinema" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/439.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tunisia Nat1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/430.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Tunisia Nat2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/374.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Elhiwar Ettounasi" link="http://kingiptv.dyndns.tv:8000/live/online/tv/638.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="FataFeat" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/426.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Aghani Aghani" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/373.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>		
+	<channel name="Rotana" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/404.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Clip" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/401.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Fox" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/536.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Khalijiah" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/402.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Classic" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/400.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Masriya" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/403.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Fox Movies" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/434.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Cinema" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/399.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Rotana Aflam" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/398.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AlResala" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/429.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="ALAdalah" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/537.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Noor Dubai" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/538.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Awtar" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/539.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="LDC" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/540.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Majid Kids" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/541.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AD Elmarat" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/542.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AD Sport2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/406.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AD Nat Geo" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/543.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AD Sport1" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/405.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AD Drama" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/419.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Dubai Sport4" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/544.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Lana" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/545.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Cartoon Network Arabic" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/411.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AlDafra" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/546.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Zee Alwan" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/452.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="B4U Aflam" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/547.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="B4U Plus" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/548.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="AlGhad Alarabi" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/549.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Echorouk News" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/550.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Samira Tv" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/551.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Zee Living" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/552.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Arabia" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/580.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Syria Drama" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/556.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sama TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/555.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Al Mustakila" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/554.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Iraq Today" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/557.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ALJazeera" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/413.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlJazeera Mubasher" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/558.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlJazeera Documentary" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/559.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Qatar" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/560.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arabica" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/561.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="NBN" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/422.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Heya" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/562.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlJadeed" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/424.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Manar" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/563.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Lebanon TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/564.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Future TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/423.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="OTV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/636.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Massaya" link="http://kingiptv.dyndns.tv:8000/live/online/tv/453.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sumaria" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/565.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlRasheed" link="http://kingiptv.dyndns.tv:8000/live/online/tv/427.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlSharqiya News" link="http://kingiptv.dyndns.tv:8000/live/online/tv/637.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Hawacom" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/566.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ALHadath" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/415.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlArabiya" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/414.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RT Arab" link="http://kingiptv.dyndns.tv:8000/live/online/tv/428.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="MBC Pro SP1" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/454.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="MBC Pro SP2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/455.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="MBC Pro SP3" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/456.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="MBC Pro SP4" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/457.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tunisna" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/553.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Roya" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/607.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Halab Today" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/608.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>		
+    <channel name="CBC TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/440.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="CBC +2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/441.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="CBC Drama" link="http://kingiptv.dyndns.tv:8000/live/online/tv/442.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="CBC Extra" link="http://kingiptv.dyndns.tv:8000/live/online/tv/432.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="CBC Sofra" link="http://kingiptv.dyndns.tv:8000/live/online/tv/431.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlNahar" link="http://kingiptv.dyndns.tv:8000/live/online/tv/445.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="AlNahar Drama" link="http://kingiptv.dyndns.tv:8000/live/online/tv/438.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Ishtar" link="http://kingiptv.dyndns.tv:8000/live/online/tv/642.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Noursat" link="http://kingiptv.dyndns.tv:8000/live/online/tv/641.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sat7 Kids" link="http://kingiptv.dyndns.tv:8000/live/online/tv/639.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sat7 Arabic" link="http://kingiptv.dyndns.tv:8000/live/online/tv/640.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Nile Sport" link="http://kingiptv.dyndns.tv:8000/live/online/tv/653.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile News" link="http://kingiptv.dyndns.tv:8000/live/online/tv/652.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Culture" link="http://kingiptv.dyndns.tv:8000/live/online/tv/449.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Comedy" link="http://kingiptv.dyndns.tv:8000/live/online/tv/447.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Cinema" link="http://kingiptv.dyndns.tv:8000/live/online/tv/446.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Drama" link="http://kingiptv.dyndns.tv:8000/live/online/tv/448.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Family" link="http://kingiptv.dyndns.tv:8000/live/online/tv/651.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nile Life" link="http://kingiptv.dyndns.tv:8000/live/online/tv/450.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Funoon" link="http://kingiptv.dyndns.tv:8000/live/online/tv/654.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Dream2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/655.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="Kurdish">
+    <channel name="Rudaw HD" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/18.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kurdistan" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/20.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kurdistan24" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/631.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Kurdsat HD" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/517.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="NRT HD" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/521.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="KNN" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/518.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Speda TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/29.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Zagros" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/21.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Gali Kurdistan" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/22.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Rega TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/522.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="NRT2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/19.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Ronahi" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/519.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Newroz" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/520.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kurdsat News HD" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/525.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Waar TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/26.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Waar Tv Sport" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/527.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="KurdMax Sorani" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/24.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Kurdmax Pepule" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/526.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Bangawaz" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/524.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kanal4" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/528.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Badinan" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/529.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kirkuk" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/23.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Vin TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/28.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Korek" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/27.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Plistank" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/25.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="TRT Kurdi" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/530.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sterk" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/532.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Rojhelat TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/535.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Med Nuce" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/534.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Med Music" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/31.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Komala TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/533.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Net TV Kurd" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/523.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Kurd" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/578.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Hewad TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/567.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arezo TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/569.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Zhwandoon TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/568.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sahar Kurdish" link="http://kingiptv.dyndns.tv:8000/live/online/tv/632.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Cira TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/633.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Amozhgary" link="http://kingiptv.dyndns.tv:8000/live/online/tv/634.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Zarok TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/647.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Ozgur Gun TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/649.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="One Damla" link="http://kingiptv.dyndns.tv:8000/live/online/tv/644.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Hevi TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/643.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Farkli TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/648.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Evin TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/650.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Denge TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/646.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Azadi TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/645.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="Persian">
+    <channel name="GEM TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/581.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Life" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/574.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Junior" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/579.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Series" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/577.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Classic" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/576.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Bollywood" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/575.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Education" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/586.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM AZ" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/585.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM ST" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/583.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="GEM Ten" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/582.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Irib1" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/587.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Irib2" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/588.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Irib3" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/589.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Irib4" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/590.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Irib5" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/591.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Rubix" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/572.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="River" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/573.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Onyx" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/570.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Modern Economy" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/584.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Mifa" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/571.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Shoma TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/592.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Salamt TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/595.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Poya TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/594.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Nasim" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/596.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Namayesh TV" link="http://kingiptv.dyndns.tv:8000/live/king/Kingiptv/593.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kalemeh Farsi" link="http://kingiptv.dyndns.tv:8000/live/online/tv/635.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="Turkish">
+    <channel name="Lig TV1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/361.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Lig TV2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/362.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Lig TV3" link="http://kingiptv.dyndns.tv:8000/live/online/tv/363.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Cinebox2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/372.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Cinebox3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/371.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Cinebox4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/370.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Cinebox6 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/369.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Cinebox7 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/364.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SALON1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/368.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SALON2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/367.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SALON3" link="http://kingiptv.dyndns.tv:8000/live/online/tv/366.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="UK">
+    <channel name="Sky BBC One HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/144.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky BBC Two HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/145.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky BBC Three HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/146.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky BBC Four HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/147.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports 1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/154.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+	<channel name="Sky Sports 2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/155.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports 3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/156.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports 4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/157.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports 5 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/158.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports F1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/160.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports News HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/153.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Setanta Sports" link="http://kingiptv.dyndns.tv:8000/live/online/tv/164.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Premier Sports" link="http://kingiptv.dyndns.tv:8000/live/online/tv/163.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Nickelodeon" link="http://kingiptv.dyndns.tv:8000/live/online/tv/136.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Disney XD HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/137.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Disney Junior HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/138.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Disney Chaneel HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/135.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Sports F1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/159.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky BT Sport 2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/162.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky BT Sport 1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/161.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky ITV 1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/148.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky ITV 2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/149.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky ITV 3" link="http://kingiptv.dyndns.tv:8000/live/online/tv/150.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky ITV 4" link="http://kingiptv.dyndns.tv:8000/live/online/tv/151.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Liverpool FC TV HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/167.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Eurosport1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/165.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Showcase HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/129.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Select HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/130.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Family HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/133.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Action HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/131.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies 24" link="http://kingiptv.dyndns.tv:8000/live/online/tv/143.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Sci-Fi+" link="http://kingiptv.dyndns.tv:8000/live/online/tv/172.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Atlantic" link="http://kingiptv.dyndns.tv:8000/live/online/tv/141.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky More 4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/185.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Cbs Drama" link="http://kingiptv.dyndns.tv:8000/live/online/tv/170.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Cbs Action" link="http://kingiptv.dyndns.tv:8000/live/online/tv/171.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky 5 USA" link="http://kingiptv.dyndns.tv:8000/live/online/tv/182.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky 5 star" link="http://kingiptv.dyndns.tv:8000/live/online/tv/183.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky News HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/152.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky RTE Two" link="http://kingiptv.dyndns.tv:8000/live/online/tv/175.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky RTE One" link="http://kingiptv.dyndns.tv:8000/live/online/tv/174.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Living HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/179.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Gold" link="http://kingiptv.dyndns.tv:8000/live/online/tv/181.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky E4" link="http://kingiptv.dyndns.tv:8000/live/online/tv/184.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Arts1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/177.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Animal Planet HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/187.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky History HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/190.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Nat Geo Wild HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/189.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Food Network" link="http://kingiptv.dyndns.tv:8000/live/online/tv/139.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Good Food HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/186.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky True Movies1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/178.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky True Movies2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/140.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Film4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/142.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Thriller HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/132.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky MUTV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/169.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Star Jalsha" link="http://kingiptv.dyndns.tv:8000/live/online/tv/176.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky National Geographic HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/188.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Premiere HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/128.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Movies Drama HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/134.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sky Chelsea TV HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/168.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="Germany">
+    <channel name="SKY Sport2" link="http://istariptv.dyndns-ip.com:2200/SkySport2/index.m3u8" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/251.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/250.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema24 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/255.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Action HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/254.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Comedy HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/253.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Emotion HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/252.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Atlantic HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/256.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/284.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/285.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/286.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/287.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select5 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/288.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select6 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/289.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select7 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/290.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Select8 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/291.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/257.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/258.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/261.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/262.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/263.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/264.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time5 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/265.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time6 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/266.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sport Time7 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/267.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Bundesliga1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/259.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ZDF Kultur" link="http://kingiptv.dyndns.tv:8000/live/online/tv/280.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ZDF Info" link="http://kingiptv.dyndns.tv:8000/live/online/tv/278.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SRF2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/269.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SRF1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/268.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ORF Eins" link="http://kingiptv.dyndns.tv:8000/live/online/tv/272.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ORF2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/271.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="PRO7" link="http://kingiptv.dyndns.tv:8000/live/online/tv/276.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTL HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/274.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTL2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/275.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Super RTL" link="http://kingiptv.dyndns.tv:8000/live/online/tv/273.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>
+<catagory type="Italy">
+    <channel name="SKY Cinema1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/293.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Ccinema24 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/294.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Passion HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/297.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Max HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/299.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Family HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/296.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Cult HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/300.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Comedy HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/298.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Cinema Classics HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/301.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Atlantic HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/302.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY UNO HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/295.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/314.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/315.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/316.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport24 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/313.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sport Moto GP HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/318.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SKY Sports F1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/317.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/303.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/305.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/306.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila5 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/307.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila6 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/308.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila9 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/311.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Primafila10 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/312.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+</catagory>	
+<catagory type="Albanian-Serbian">
+    <channel name="Arena Sport1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/246.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arena Sport2" link="http://kingiptv.dyndns.tv:8000/live/online/tv/247.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arena Sport3" link="http://kingiptv.dyndns.tv:8000/live/online/tv/248.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arena Sport4" link="http://kingiptv.dyndns.tv:8000/live/online/tv/249.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Arena Sport5" link="http://kingiptv.dyndns.tv:8000/live/online/tv/458.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Tring Sport1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/630.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Sport2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/629.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Sport3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/628.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Sport4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/627.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SuperSport1 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/242.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SuperSport2 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/243.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SuperSport3 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/244.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SuperSport4 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/245.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Thriller" link="http://kingiptv.dyndns.tv:8000/live/online/tv/623.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Nje HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/618.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Komedi" link="http://kingiptv.dyndns.tv:8000/live/online/tv/620.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Hits1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/622.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Hits" link="http://kingiptv.dyndns.tv:8000/live/online/tv/621.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Dy HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/619.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Drame" link="http://kingiptv.dyndns.tv:8000/live/online/tv/624.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Autor" link="http://kingiptv.dyndns.tv:8000/live/online/tv/626.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Film Aksion" link="http://kingiptv.dyndns.tv:8000/live/online/tv/625.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring World" link="http://kingiptv.dyndns.tv:8000/live/online/tv/237.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Tring" link="http://kingiptv.dyndns.tv:8000/live/online/tv/236.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Super" link="http://kingiptv.dyndns.tv:8000/live/online/tv/238.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Max" link="http://kingiptv.dyndns.tv:8000/live/online/tv/239.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring Life" link="http://kingiptv.dyndns.tv:8000/live/online/tv/240.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Tring History" link="http://kingiptv.dyndns.tv:8000/live/online/tv/241.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Pink TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/229.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>	
+    <channel name="Pink Thriller" link="http://kingiptv.dyndns.tv:8000/live/online/tv/230.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Pink Romance" link="http://kingiptv.dyndns.tv:8000/live/online/tv/231.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Pink SC-FI" link="http://kingiptv.dyndns.tv:8000/live/online/tv/232.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Pink Horror" link="http://kingiptv.dyndns.tv:8000/live/online/tv/233.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Pink Comedy" link="http://kingiptv.dyndns.tv:8000/live/online/tv/235.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="STV Folk" link="http://kingiptv.dyndns.tv:8000/live/online/tv/613.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="KTV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/612.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Folklorit" link="http://kingiptv.dyndns.tv:8000/live/online/tv/615.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Folk" link="http://kingiptv.dyndns.tv:8000/live/online/tv/617.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ERA TV" link="http://kingiptv.dyndns.tv:8000/live/online/tv/616.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Top Channel HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/225.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTV 21 Sat" link="http://kingiptv.dyndns.tv:8000/live/online/tv/220.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Jolly HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/458.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTV 21 Plus" link="http://kingiptv.dyndns.tv:8000/live/online/tv/226.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTV 21 Mix" link="http://kingiptv.dyndns.tv:8000/live/online/tv/227.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTV 21 HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/228.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="RTK 1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/218.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kohavision Toksor" link="http://kingiptv.dyndns.tv:8000/live/online/tv/222.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Kohavision" link="http://kingiptv.dyndns.tv:8000/live/online/tv/221.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Klan Kosova HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/223.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Klan HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/224.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+</catagory>
+<catagory type="Indian">
+    <channel name="Zee Tv Us" link="http://kingiptv.dyndns.tv:8000/live/online/tv/211.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="VijaY" link="http://kingiptv.dyndns.tv:8000/live/online/tv/214.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Ten Cricket" link="http://kingiptv.dyndns.tv:8000/live/online/tv/215.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star Plus HD US" link="http://kingiptv.dyndns.tv:8000/live/online/tv/216.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sun Tv" link="http://kingiptv.dyndns.tv:8000/live/online/tv/193.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sun Music" link="http://kingiptv.dyndns.tv:8000/live/online/tv/194.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star Plus" link="http://kingiptv.dyndns.tv:8000/live/online/tv/195.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star Gold" link="http://kingiptv.dyndns.tv:8000/live/online/tv/217.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Star Cinema" link="http://kingiptv.dyndns.tv:8000/live/online/tv/199.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="SonY Us" link="http://kingiptv.dyndns.tv:8000/live/online/tv/197.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sony Sab" link="http://kingiptv.dyndns.tv:8000/live/online/tv/198.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sony HD" link="http://kingiptv.dyndns.tv:8000/live/online/tv/196.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Sirip" link="http://kingiptv.dyndns.tv:8000/live/online/tv/212.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Set Max" link="http://kingiptv.dyndns.tv:8000/live/online/tv/202.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="omni1" link="http://kingiptv.dyndns.tv:8000/live/online/tv/203.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Ktv" link="http://kingiptv.dyndns.tv:8000/live/online/tv/205.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="jayatv" link="http://kingiptv.dyndns.tv:8000/live/online/tv/204.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="J Max" link="http://kingiptv.dyndns.tv:8000/live/online/tv/206.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Dish Cinma" link="http://kingiptv.dyndns.tv:8000/live/online/tv/191.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="ChnLi" link="http://kingiptv.dyndns.tv:8000/live/online/tv/207.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="B4U Movie" link="http://kingiptv.dyndns.tv:8000/live/online/tv/192.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Atn Bang" link="http://kingiptv.dyndns.tv:8000/live/online/tv/208.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Aath" link="http://kingiptv.dyndns.tv:8000/live/online/tv/209.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Aajtak" link="http://kingiptv.dyndns.tv:8000/live/online/tv/210.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Zee Cinema" link="http://kingiptv.dyndns.tv:8000/live/online/tv/213.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="jmovie" link="http://kingiptv.dyndns.tv:8000/live/online/tv/201.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>
+    <channel name="Aapkaus" link="http://kingiptv.dyndns.tv:8000/live/online/tv/200.ts" picture="http://198.50.198.85/ISTAR-Multimedia/OnlineTv-Posters/Default-Logo.jpg"/>		
+</catagory>
+</root>
